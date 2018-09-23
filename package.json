@@ -1,0 +1,27 @@
+{
+  "name": "tdd-javascript",
+  "version": "1.0.0",
+  "description": "A simple boilerplate for doing TDD in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugpro/tdd-javascript.git"
+  },
+  "keywords": [
+    "jest",
+    "tdd",
+    "javascript"
+  ],
+  "author": "Skúli Arnlaugsson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugpro/tdd-javascript/issues"
+  },
+  "homepage": "https://github.com/hugpro/tdd-javascript#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
