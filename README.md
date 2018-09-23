@@ -6,3 +6,4 @@ This is a very simple boilerplate to try out TDD in Javascript. It uses [NPM](ht
 2. To run tests, use `npm test`.
 3. Make iterative changes to the `add.test.js` file, by adding new test scenarios. Once you have a failing test, update `add.js` to support the new test scenarios. Refactor if needed. Repeat until you have implemented all the requirements.
 
+![Running tests in command prompt](run-tests.PNG)
